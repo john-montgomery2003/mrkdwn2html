@@ -1,5 +1,9 @@
-# Example Package
+# MRKDWN 2 HTML
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Converting between Markdown and HTML. 
+
+Still under development. Avaliable on pip, to install:
+
+`pip install mrkdwn2html`
+
+The primary function is mrkdwn2html(mrkdwn) which returns the converted string.

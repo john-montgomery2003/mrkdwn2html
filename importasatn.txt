@@ -1,5 +1,0 @@
-This is all about how to convert between markdown and HTML as simply as possible.
-
-It splits up the mrkdwn into its constituent parts.
-
-Its all passed through regex, in order to convert all parts into html
